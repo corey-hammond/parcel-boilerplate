@@ -1,1 +1,3 @@
-console.log("It works")
+import "./scss/app.scss";
+
+console.log("It works");
